@@ -1,4 +1,4 @@
-some claude skills and accompanying python scripts I find useful for writing and tweaking $\LaTeX$ resumes
+some skills and accompanying python scripts I find useful for writing and tweaking $\LaTeX$ resumes
 
 ### skills (`.agents/skills/`)
 
